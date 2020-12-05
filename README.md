@@ -19,7 +19,7 @@ O(logN): in any case
 ### EXTRA-CURRICULAR ACTIVITY
 
 This project was an extra curricular activity.A teacher told us to do this project to test Hashing methods. Everyone participating would actually challenge all the other caches created by students.
-(We were not graded for this project so it is possible that the code is not always well written)
+
 
 This implementation was the faster no matter how many data were given for Testing
 
